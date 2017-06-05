@@ -1,13 +1,13 @@
 {
-  "name": "iboldurev/api-ai-php",
+  "name": "bennettphil/api-ai-php",
   "description": "API.ai php sdk",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
-      "name": "Ivan Boldyrev",
-      "email": "iboldurev@gmail.com",
-      "homepage": "https://github.com/iboldurev"
+      "name": "Phil Bennett",
+      "email": "me@phil.is",
+      "homepage": "https://github.com/BennettPhil"
     }
   ],
   "keywords": [
